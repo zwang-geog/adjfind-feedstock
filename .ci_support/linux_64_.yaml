@@ -19,7 +19,7 @@ docker_image:
 libboost_devel:
 - '1.86'
 libgdal_core:
-- '3.11'
+- '3.12'
 target_platform:
 - linux-64
 zip_keys:
