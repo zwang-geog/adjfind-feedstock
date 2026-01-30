@@ -1,4 +1,4 @@
-{% set version = "0.2.0" %}
+{% set version = "0.2.1" %}
 
 package:
   name: adjfind
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/zwang-geog/AdjFind/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 861fb40762edaafd9a014be4c306c3e47f7c7a2d6d90523b8d4cdc83c67e9ce1
+  sha256: c38373b8c0246245e7d12f11715ec9cd2e9fb61f3c1495ad4f425f737a96e606
 
 build:
   number: 1
